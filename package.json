@@ -1,0 +1,12 @@
+{
+  "name": "hohuz",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "weather:vienna": "bun scripts/vienna-weather.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.59.1"
+  }
+}
