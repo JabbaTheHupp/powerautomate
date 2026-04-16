@@ -4,7 +4,7 @@
   "private": true,
   "type": "commonjs",
   "scripts": {
-    "weather:vienna": "bun scripts/vienna-weather.js"
+    "flow1": "bun scripts/flow1-sf-guid-scraper.js"
   },
   "devDependencies": {
     "playwright": "^1.59.1"
